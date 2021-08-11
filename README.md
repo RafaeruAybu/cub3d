@@ -19,5 +19,5 @@ A big part of a job was to make a perfect map file parser. The rules are:\
 ## usage
 Clone the project.\
 Make it.\
-Start a program like this ./cub3D <map>.cub.\
+Start a program like this ./cub3D \<map\>.cub.\
 Move with arrows on a keyboard.
